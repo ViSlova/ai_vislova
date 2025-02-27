@@ -1,6 +1,6 @@
 # Проект: ИИ-ассистент для NL International
 Ссылка на проект - https://t.me/BeautiNLbot
-(https://github.com/ViSlova/ai_vislova/blob/main/2025-02-27_21-13-44.png?raw=true)
+![Скриншот 1 ](https://github.com/ViSlova/ai_vislova/blob/main/2025-02-27_21-13-44.png?raw=tru
 
 ## Описание проекта
 
