@@ -1,6 +1,6 @@
 # Проект: ИИ-ассистент для NL International
 Ссылка на проект 
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/ViSlova/ai_vislova/blob/main/2025-02-27_21-13-44.png?raw=true)
+![Иллюстрация к проекту](https://github.com/ViSlova/ai_vislova/blob/main/2025-02-27_21-13-44.png?raw=true)
 
 ## Описание проекта
 
