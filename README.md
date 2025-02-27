@@ -1,4 +1,5 @@
 # Проект: ИИ-ассистент для NL International
+Ссылка на проект - https://t.me/BeautiNLbot
 
 ## Описание проекта
 
